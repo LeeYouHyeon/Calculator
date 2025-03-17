@@ -79,4 +79,7 @@ public class MyNum {
 	public boolean isDouble() {
 		return isDouble;
 	}
+	public void setDouble(boolean isDouble) {
+		this.isDouble = isDouble;
+	}
 }
